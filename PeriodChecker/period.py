@@ -34,10 +34,10 @@ def checkTime(curr_time):
     elif t_time == "12:52:00":
         print("Period 7")
         playSound()
-    elif t_time == "1:40:00":
+    elif t_time == "13:40:00":
         print("Period 8")
         playSound()
-    elif t_time == "2:25:00":
+    elif t_time == "14:25:00":
         print("After School")
         playSound()
 
